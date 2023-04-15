@@ -6,7 +6,7 @@ Each project is designed to be easy to understand and modify, making it a great 
 
 # List of Projects
 
-Guess the Number Game
+```Guess the Number Game```
 
 ```Simple Text Editor```
 
@@ -14,7 +14,7 @@ Guess the Number Game
 
 ```Simple Calculator```
 
-```Mad Libs Generator```
+```Fibonacci Sequence Generator```
 
 ```Password Generator```
 
@@ -36,7 +36,7 @@ Feel free to modify the code or add new features to the projects. If you have an
 
 
 
-# Guess the Number Game
+# 1 Guess the Number Game
 This is a simple Python game where the user has to guess a number between 1 and 100. The program will provide hints such as "too high" or "too low" until the user guesses the correct number.
 
 # How to Play
@@ -48,13 +48,13 @@ Navigate to the directory where the code is located
 Run the command python guess_the_number.py to start the game
 
 Follow the on-screen instructions to play the game
-
+```
 # Requirements
-
+```
 Python 3.x
 
 ```
-# Simple Chatbot
+# 2 Simple Chatbot
 
 This is a simple Python program that uses natural language processing techniques to understand and respond to user input. The chatbot can answer basic questions and carry out simple tasks such as setting reminders or providing weather information.
 
@@ -71,13 +71,13 @@ Run the command python chatbot.py to start the chatbot
 Type in your message and press Enter to send it
 
 The chatbot will respond with an appropriate message
-
+```
 # Requirements
-
+```
 Python 3.x
 ```
 
-# Password Generator
+# 3 Password Generator
 
 This is a Python program that generates random passwords based on user specifications such as length and complexity.
 
@@ -90,12 +90,12 @@ Navigate to the directory where the code is located
 Run the command python password_generator.py to start the program
 
 Follow the on-screen instructions to generate a password
-
+```
 # Requirements
-
+```
 Python 3.x
 ```
-22. Fibonacci Sequence Generator
+# 4 Fibonacci Sequence Generator
 
 This is a Python program that generates the Fibonacci sequence up to a specified number of terms.
 
@@ -110,10 +110,10 @@ Run the command python fibonacci_sequence.py to start the program
 Follow the on-screen instructions to generate the Fibonacci sequence
 
 # Requirements
-
+```
 Python 3.x
-
-# Binary to Decimal Converter
+```
+# 5 Binary to Decimal Converter
 
 This is a Python program that converts binary numbers to decimal numbers.
 
@@ -128,9 +128,9 @@ Run the command python binary_to_decimal.py to start the program
 Follow the on-screen instructions to convert a binary number to decimal
 
 # Requirements
-
+```
 Python 3.x
-
+```
 # Command-Line Text Editor
 
 ```
@@ -145,14 +145,14 @@ Navigate to the directory where the code is located
 Run the command python text_editor.py to start the program
 
 Follow the on-screen instructions to create, edit, and save text files
-
+```
 # Requirements
-
+```
 Python 3.x
 
 ```
 
-# Random Quote Generator
+#6  Random Quote Generator
 This is a Python program that generates a random quote from a collection of quotes.
 
 # How to Use
@@ -164,13 +164,12 @@ Navigate to the directory where the code is located
 Run the command python quote_generator.py to start the program
 
 The program will display a random quote
-
+```
 # Requirements
-
+```
 Python 3.x
-
+```
 Feel free to modify the code or add new features to the programs. If you have any questions or suggestions, feel free to contact me.
 
-```
 
 
