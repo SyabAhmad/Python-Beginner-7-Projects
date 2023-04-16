@@ -152,17 +152,16 @@ Navigate to the directory where the code is located
 Run the command python binary_to_decimal.py to start the program
 
 Follow the on-screen instructions to convert a binary number to decimal
-
+```
 # Requirements
 ```
 Python 3.x
 ```
 # Command-Line Text Editor
 
-```
 This is a simple command-line text editor written in Python. The program allows users to create, edit, and save text files from the command line.
 
-```
+
 # About this Project
 
 # ```Command Line Text Editor as 3rd Beginner Projects```
@@ -174,7 +173,7 @@ The program allows the user to edit the text by typing in additional lines or re
 This program can be used as an introduction to file handling and input/output concepts in Python. It also demonstrates the use of functions and global variables in Python programming.
 
 # How to Use
-
+```
 Clone the repository
 
 Navigate to the directory where the code is located
