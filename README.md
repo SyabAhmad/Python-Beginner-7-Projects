@@ -67,6 +67,7 @@ Python 3.x
 
 This is a simple Python program that uses natural language processing techniques to understand and respond to user input. The chatbot can answer basic questions and carry out simple tasks such as setting reminders or providing weather information.
 
+# About this project
 
 # ```Simple Chat Bot project for beginners```
 
@@ -76,6 +77,7 @@ The program then takes user input as a question and checks if it matches any of 
 
 This program can be used as a simple introduction to Python programming concepts such as user input, variables, conditional statements, and basic string manipulation.
 
+# About this project
 
 # How to Use
 
@@ -99,6 +101,8 @@ Python 3.x
 
 This is a Python program that generates random passwords based on user specifications such as length and complexity.
 
+# About this project
+
 # How to Use
 ```
 Clone the repository
@@ -117,6 +121,8 @@ Python 3.x
 
 This is a Python program that generates the Fibonacci sequence up to a specified number of terms.
 
+# About this project
+
 # How to Use
 
 Clone the repository
@@ -134,6 +140,8 @@ Python 3.x
 # 5 Binary to Decimal Converter
 
 This is a Python program that converts binary numbers to decimal numbers.
+
+# About this project
 
 # How to Use
 ```
@@ -172,6 +180,8 @@ Python 3.x
 
 #6  Random Quote Generator
 This is a Python program that generates a random quote from a collection of quotes.
+
+# About this project
 
 # How to Use
 ```
