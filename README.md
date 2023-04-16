@@ -39,6 +39,15 @@ Feel free to modify the code or add new features to the projects. If you have an
 # 1 Guess the Number Game
 This is a simple Python game where the user has to guess a number between 1 and 100. The program will provide hints such as "too high" or "too low" until the user guesses the correct number.
 
+# About this project
+
+# ```Guess the Number Game in Python```
+This is a simple Python program that allows the user to play a number guessing game. The game randomly generates a number between 1 and 10, and the user has to guess the number. The user has a total of 3 moves to guess the number correctly. If the user's guess matches the computer's number, the user wins the game, and the program prints "Correct Answer". If the user's guess is incorrect, the program prints "incorrect Answer", and the user loses one move. If the user is unable to guess the number correctly within the 3 moves, the game is over, and the program prints "Game Over For you MR. {userName}" along with the correct answer.
+
+This program can be used as a basic introduction to Python programming concepts such as user input, random number generation, conditional statements, and loops.
+
+
+
 # How to Play
 ```
 Clone the repository
