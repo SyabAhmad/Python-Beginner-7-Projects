@@ -1,4 +1,4 @@
-
+from bs4 import BeautifulSoap4
 print("Command Line Tet Editor as 3rd Beginner Projects")
 print("--------------------------------")
 print("First choose a file format")
