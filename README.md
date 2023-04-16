@@ -176,7 +176,7 @@ Follow the on-screen instructions to convert a binary number to decimal
 ```
 Python 3.x
 ```
-# Command-Line Text Editor
+# 6Command-Line Text Editor
 
 This is a simple command-line text editor written in Python. The program allows users to create, edit, and save text files from the command line.
 
@@ -207,7 +207,7 @@ Python 3.x
 
 ```
 
-#6  Random Quote Generator
+#7  Random Quote Generator
 This is a Python program that generates a random quote from a collection of quotes.
 
 # About this project
@@ -228,5 +228,7 @@ Python 3.x
 ```
 Feel free to modify the code or add new features to the programs. If you have any questions or suggestions, feel free to contact me.
 
+# Bonus Project (calculator)
 
+The calculator function is a simple calculator that performs basic arithmetic operations. It prompts the user to enter an arithmetic operation (+, -, *, /) and two operands, then performs the operation and prints the result. The calculator will continue to run until the user enters 'q' to quit. If the user enters invalid input (i.e. not a number), the calculator will prompt them to enter a number. If the user attempts to divide by zero, the calculator will print an error message and continue the loop.
 
