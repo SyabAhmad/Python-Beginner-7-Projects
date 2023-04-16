@@ -124,7 +124,7 @@ This is a Python program that generates the Fibonacci sequence up to a specified
 # About this project
 
 # How to Use
-
+```
 Clone the repository
 
 Navigate to the directory where the code is located
@@ -132,7 +132,7 @@ Navigate to the directory where the code is located
 Run the command python fibonacci_sequence.py to start the program
 
 Follow the on-screen instructions to generate the Fibonacci sequence
-
+```
 # Requirements
 ```
 Python 3.x
