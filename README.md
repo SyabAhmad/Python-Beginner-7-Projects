@@ -163,7 +163,18 @@ Python 3.x
 This is a simple command-line text editor written in Python. The program allows users to create, edit, and save text files from the command line.
 
 ```
+# About this Project
+
+# ```Command Line Text Editor as 3rd Beginner Projects```
+
+This is a simple Python program that allows the user to create and edit a text file from the command line interface. The program starts by asking the user to choose a file format, such as .py, .html, or .css, and enter a file name. The user is then prompted to type in their text, line by line.
+
+The program allows the user to edit the text by typing in additional lines or removing existing ones. The user can save and exit the program by typing '/saveAndExit' as a line of text. The program then writes the text to the file with the specified name and format.
+
+This program can be used as an introduction to file handling and input/output concepts in Python. It also demonstrates the use of functions and global variables in Python programming.
+
 # How to Use
+
 Clone the repository
 
 Navigate to the directory where the code is located
