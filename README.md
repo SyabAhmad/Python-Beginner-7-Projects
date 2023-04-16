@@ -123,6 +123,25 @@ This is a Python program that generates the Fibonacci sequence up to a specified
 
 # About this project
 
+# ```4 Fibonacci Sequence Generator```
+
+This code generates the Fibonacci sequence up to the nth term, where n is a user-specified integer argument passed to the fibonacci_sequence() function.
+
+
+The Fibonacci sequence is a series of numbers in which each number is the sum of the two preceding numbers, starting with 0 and 1. For example, the first few terms of the sequence are 0, 1, 1, 2, 3, 5, 8, 13, 21, 34, and so on.
+
+
+The fibonacci_sequence() function takes an integer argument n that specifies the number of terms to generate in the sequence. It returns the completed sequence as a list.
+
+
+The function first initializes the sequence with the first two terms, which are always 0 and 1. It then generates the remaining terms in the sequence using a loop. Each term is calculated by adding the previous two terms together. Finally, the function returns the completed sequence as a list.
+
+
+In this example code, the fibonacci_sequence() function is called with an argument of 10, which generates the first 10 terms of the sequence. The resulting sequence is stored in the series variable and printed to the console.
+
+
+The docstring of the function provides additional information about the function, including the arguments it takes and the type of value it returns. This information can be useful when using the function in larger projects or sharing the code with others.
+
 # How to Use
 ```
 Clone the repository
