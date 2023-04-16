@@ -6,19 +6,19 @@ Each project is designed to be easy to understand and modify, making it a great 
 
 # List of Projects
 
-```Guess the Number Game```
+# ```Guess the Number Game```
 
-```Simple Text Editor```
+# ```Simple Text Editor```
 
-```Simple Chatbot```
+# ```Simple Chatbot```
 
-```Simple Calculator```
+# ```Simple Calculator```
 
-```Fibonacci Sequence Generator```
+# ```Fibonacci Sequence Generator```
 
-```Password Generator```
+# ```Password Generator```
 
-```Random Quote Generator```
+# ```Random Quote Generator```
 
 # How to Use
 
