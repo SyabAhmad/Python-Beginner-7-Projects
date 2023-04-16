@@ -68,6 +68,15 @@ Python 3.x
 This is a simple Python program that uses natural language processing techniques to understand and respond to user input. The chatbot can answer basic questions and carry out simple tasks such as setting reminders or providing weather information.
 
 
+# ```Simple Chat Bot project for beginners```
+
+This is a simple Python program that demonstrates the basics of building a chatbot. The program starts by asking the user for their name and stores it in the nameOfUser variable. The chatbot has pre-defined responses to a few questions, which are stored in questionOne, answerOne, questionTwo, and answerTwo variables.
+
+The program then takes user input as a question and checks if it matches any of the pre-defined questions. If the user asks "what is My Name?", the chatbot responds with the user's name. If the user asks "what is you Name?", the chatbot responds with the developer's name. If the user asks about "Noun", "Verb", or "Pronoun", the chatbot provides a simple definition of the terms. If the user's question does not match any of the pre-defined questions, the chatbot responds with "Data not included yet" and suggests the user try one of the pre-defined topics.
+
+This program can be used as a simple introduction to Python programming concepts such as user input, variables, conditional statements, and basic string manipulation.
+
+
 # How to Use
 
 ```
